@@ -18,7 +18,7 @@ Unordered List
 -
 -
 
-'code'
+'cout << "Hello World" << endl; '
 
 ---If you can finish something in 2 minutes, do it right away
 
