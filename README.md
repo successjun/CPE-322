@@ -16,9 +16,11 @@ Ordered List
 2. Diet Coke
 
 
-'cout << "Hello World" << endl; '
+` cout << "hello world" << endl; `
 
----If you can finish something in 2 minutes, do it right away
+---
+
+If you can finish something in 2 minutes, do it right away
 
 [Github](https://github.com/successjun/CPE-322/tree/main)
 
