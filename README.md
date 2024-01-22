@@ -20,7 +20,7 @@ Unordered List
 
 'code'
 
----
+---If you can finish something in 2 minutes, do it right away
 
 [Github](https://github.com/successjun/CPE-322/tree/main)
 
