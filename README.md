@@ -11,12 +11,12 @@ heading, bold, italic, block quote, ordered list, unordered list, code, horizont
 > Order, Peace, and Justice
 
 Ordered List
-1. 
-2.
+1. Happy Meal
+2. Diet Coke
 
-Unordered List
--
--
+#### Hobbies
+- Video Games
+- Cooking
 
 'cout << "Hello World" << endl; '
 
