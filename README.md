@@ -1,12 +1,13 @@
 # CPE-322
-heading, bold, italic, block quote, ordered list, unordered list, code, horizontal rule, link, image
 
 ## Hello
-**i am seongjun**
+**I am Seongjun**
 
 ### Things I am good at
-*Building*
-*Flute*
+- Video Games
+- Cooking
+
+*I love animals*
 
 > Order, Peace, and Justice
 
@@ -14,9 +15,6 @@ Ordered List
 1. Happy Meal
 2. Diet Coke
 
-#### Hobbies
-- Video Games
-- Cooking
 
 'cout << "Hello World" << endl; '
 
