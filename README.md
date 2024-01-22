@@ -3,9 +3,10 @@
 ## Hello
 **I am Seongjun**
 
-### Things I am good at
+### Things I like
 - Video Games
 - Cooking
+- Star Wars
 
 *I love animals*
 
