@@ -5,7 +5,7 @@
 ## Hello
 **I am Seongjun, 3/4 Computer Engineering major at Stevens Institute of Technology**
 
-###I like
+### I like
 - Video Games
 - Making
 - Star Wars
