@@ -1,27 +1,28 @@
 # CPE-322
 
 ## Hello
-**I am Seongjun**
+**I am Seongjun, 3/4 Computer Engineering major at Stevens Institute of Technology**
 
 ### Things I like
 - Video Games
 - Cooking
 - Star Wars
+- Animals
 
-*I love animals*
-
+My favorite motto:
 > Order, Peace, and Justice
 
-Ordered Lunch List
-1. Happy Meal
-2. Diet Coke
+Languages I speak
+1. Korean
+2. English
 
-Favorite Codes
+Favorite Codes:
 ` cout << "hello world" << endl; `
+This code may be the most basic in C++, but it is the most important step every learner must go through.
 
 ---
-
-If you can finish something in 2 minutes, do it right away
+A wise professor once told me:
+*If you can finish something in 2 minutes, do it right away*
 
 [Github](https://github.com/successjun/CPE-322/tree/main)
 
