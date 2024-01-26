@@ -28,7 +28,7 @@ This code may be the most basic in C++, but it is the most important step every 
 *If you can finish something in 2 minutes, do it right away*
 
 If you want to see more of my works please visit:
-[My Github Page](https://github.com/successjun/CPE-322/tree/main)
+[My Github Page](https://github.com/successjun/)
 
 
 
