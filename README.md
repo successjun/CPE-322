@@ -1,4 +1,4 @@
-![HI](Grievous.png)
+![HI](images/Grievous.png)
 
 # CPE-322
 
